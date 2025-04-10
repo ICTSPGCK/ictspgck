@@ -1,0 +1,7 @@
+@font-face{
+    font-family:"Astro";
+    font-style:normal;
+    font-weight:900;
+    font-display:block;
+    src:url('../webfonts/Astro.ttf')format("truetype");
+}
